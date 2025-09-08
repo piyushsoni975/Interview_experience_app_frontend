@@ -87,7 +87,7 @@ export default function Navbar() {
                 to="/add-experience"
                 className="btn-primary h-9 sm:h-10 text-sm sm:text-base"
               >
-                Add
+                Add Experience
               </Link>
             )}
             {u && (
